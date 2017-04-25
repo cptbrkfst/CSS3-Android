@@ -2,7 +2,7 @@
 
 Android logo in pure CSS with simple hover animations.
 
-![alt text][logo]
+!["Android Logo CSS"][logo]
 
 [logo]: https://github.com/cptbrkfst/CSS3-Android/blob/master/images/Android-Logo-CSS.png "Android Logo CSS"
 
